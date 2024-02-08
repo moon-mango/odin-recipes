@@ -1,1 +1,2 @@
 # odin-recipes
+This project is a basic recipe website that will demonstrate the use of absolute and relative links, different aspects of text body (paragraphs, ordered and unordered lists, bold, italics, & headeings), and images.
